@@ -9,3 +9,8 @@ Console.WriteLine(number);
 
 string str = number.ToString();
 Console.WriteLine(str[1]);
+
+/* второй вариант решения - начиная со строки 10
+int secondNumber = number / 10 % 10;
+Console.WriteLine($"Вторая цифра в числе {number} -> {secondNumber}");
+*/
