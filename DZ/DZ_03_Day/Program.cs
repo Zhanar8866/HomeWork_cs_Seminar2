@@ -15,3 +15,22 @@ else
 {
     Console.WriteLine("нет, не выходной день");
 }
+
+
+/* второй вариант решения
+Console.WriteLine("Введите день недели в цифрах: ");
+int num = int.Parse(Console.ReadLine());
+if (num > 7 || num < 1)
+{
+    Console.WriteLine("Введен не верный день недели");
+}
+else
+if (num > 5 & num < 8)
+{
+    Console.WriteLine("да, выходной день");
+}
+else
+{
+    Console.WriteLine("нет, не выходной день");
+}
+*/
