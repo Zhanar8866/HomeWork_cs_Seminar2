@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_03_Day\obj\Debug\net7.0\DZ_03_Day.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_03_Day\obj\Debug\net7.0\DZ_03_Day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_03_Day\obj\Debug\net7.0\DZ_03_Day.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_03_Day\obj\Debug\net7.0\DZ_03_Day.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_03_Day\obj\Debug\net7.0\DZ_03_Day.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_03_Day\bin\Debug\net7.0\DZ_03_Day.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_03_Day\bin\Debug\net7.0\DZ_03_Day.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_03_Day\bin\Debug\net7.0\DZ_03_Day.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_03_Day\bin\Debug\net7.0\DZ_03_Day.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_03_Day\bin\Debug\net7.0\DZ_03_Day.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_03_Day\obj\Debug\net7.0\DZ_03_Day.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_03_Day\obj\Debug\net7.0\refint\DZ_03_Day.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_03_Day\obj\Debug\net7.0\DZ_03_Day.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_03_Day\obj\Debug\net7.0\DZ_03_Day.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_03_Day\obj\Debug\net7.0\ref\DZ_03_Day.dll
