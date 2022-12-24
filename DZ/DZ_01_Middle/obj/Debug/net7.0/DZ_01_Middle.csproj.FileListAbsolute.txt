@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_01_Middle\obj\Debug\net7.0\DZ_01_Middle.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_01_Middle\obj\Debug\net7.0\DZ_01_Middle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_01_Middle\obj\Debug\net7.0\DZ_01_Middle.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_01_Middle\obj\Debug\net7.0\DZ_01_Middle.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_01_Middle\obj\Debug\net7.0\DZ_01_Middle.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_01_Middle\bin\Debug\net7.0\DZ_01_Middle.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_01_Middle\bin\Debug\net7.0\DZ_01_Middle.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_01_Middle\bin\Debug\net7.0\DZ_01_Middle.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_01_Middle\bin\Debug\net7.0\DZ_01_Middle.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_01_Middle\bin\Debug\net7.0\DZ_01_Middle.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_01_Middle\obj\Debug\net7.0\DZ_01_Middle.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_01_Middle\obj\Debug\net7.0\refint\DZ_01_Middle.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_01_Middle\obj\Debug\net7.0\DZ_01_Middle.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_01_Middle\obj\Debug\net7.0\DZ_01_Middle.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_01_Middle\obj\Debug\net7.0\ref\DZ_01_Middle.dll
