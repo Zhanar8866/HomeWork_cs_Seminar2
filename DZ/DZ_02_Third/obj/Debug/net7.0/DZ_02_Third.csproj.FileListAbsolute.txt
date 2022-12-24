@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_02_Third\obj\Debug\net7.0\DZ_02_Third.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_02_Third\obj\Debug\net7.0\DZ_02_Third.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_02_Third\obj\Debug\net7.0\DZ_02_Third.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_02_Third\obj\Debug\net7.0\DZ_02_Third.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_02_Third\obj\Debug\net7.0\DZ_02_Third.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_02_Third\bin\Debug\net7.0\DZ_02_Third.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_02_Third\bin\Debug\net7.0\DZ_02_Third.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_02_Third\bin\Debug\net7.0\DZ_02_Third.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_02_Third\bin\Debug\net7.0\DZ_02_Third.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_02_Third\bin\Debug\net7.0\DZ_02_Third.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_02_Third\obj\Debug\net7.0\DZ_02_Third.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_02_Third\obj\Debug\net7.0\refint\DZ_02_Third.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_02_Third\obj\Debug\net7.0\DZ_02_Third.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_02_Third\obj\Debug\net7.0\DZ_02_Third.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 02. С#\DZ\DZ_02_Third\obj\Debug\net7.0\ref\DZ_02_Third.dll
