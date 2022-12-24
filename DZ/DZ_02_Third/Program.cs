@@ -4,6 +4,7 @@
 32679 - 6
 */
 
+
 Console.Write("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
@@ -18,3 +19,27 @@ else
 {
     Console.WriteLine("третьей цифры нет");
 }
+
+
+/* второй вариант решения - начиная с 11 строки
+int cycle = 0;
+
+while (cycle < number)
+{
+    if (number > 999)
+    {
+        number = number / 10;
+    }
+    cycle++;
+}
+
+if (number > 99 & number < 1000)
+{
+    Console.Write("The third digit is: ");
+    Console.WriteLine(number % 10);
+}
+else
+{
+    Console.WriteLine("There's no third digit in your number.");
+}
+*/
